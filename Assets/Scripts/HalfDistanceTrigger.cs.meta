@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a0bc35da19815427b90fde862683b4db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HalfPoint: {fileID: 3452385181784452215, guid: 85d5dbf6719d34e74baf0297d6277b90, type: 3}
+  - FinishPoint: {fileID: 2457552329149231925, guid: 75963dd1403c9441da3aaced26a5015c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
