@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11c1205e96d5c4fc6a46be5ffbe1f970
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CounterLabel: {fileID: 3336119682220096214, guid: 432e032fffa0f43fca811b3a16e9e966, type: 3}
+  - ReadySound: {instanceID: 0}
+  - GoSound: {instanceID: 0}
+  - Car: {instanceID: 0}
+  - LapTimer: {fileID: 7949786814965727666, guid: 2ceb2a1284d02415a962ed5bea0822f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,9 +1,14 @@
 fileFormatVersion: 2
 guid: 3bab73be076324c0bab97eb90c43cbe5
+labels:
+- Text
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - miliLabel: {fileID: 2553360880208995059, guid: b4ccd8349183b4362a13dde76bad73b6, type: 3}
+  - secondLabel: {fileID: 107121328523261615, guid: 8e88b14b5333e41ec84fa5ffeb84d523, type: 3}
+  - minLabel: {fileID: 3390296288741449376, guid: 9926a4757c2544f9082260f9f0a91954, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
